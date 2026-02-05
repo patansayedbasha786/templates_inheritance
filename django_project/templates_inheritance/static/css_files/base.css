@@ -1,0 +1,21 @@
+
+
+nav{
+    text-align: center;
+}
+nav a {
+    margin-right: 15px;
+    text-decoration: none;
+    color: rgb(44, 30, 133);
+    
+    
+}
+
+footer {
+    text-align: center;
+    color: rgb(101, 47, 51);
+}
+
+body{
+    background-color: rgb(247, 247, 247);
+}
